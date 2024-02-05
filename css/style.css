@@ -3,11 +3,6 @@ body {
     margin: 0;
 }
 
-/* .container {
-    width: 60%;
-    margin: auto;
-} */
-
 header {
     background-color: rgb(78, 160, 255); 
     background-image: url("../img/pattern.png");
