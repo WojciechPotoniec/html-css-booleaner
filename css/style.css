@@ -9,7 +9,7 @@ body{
     font-family: "Roboto", sans-serif;
 }
 ul{
-    margin-left: -40px;
+    margin-left: 15px;
 }
 h1{
     font-size:4em;
@@ -18,9 +18,7 @@ h1{
     width:80%;
     margin: 0 auto;
 }
-main{
-    background-color:grey;
-}
+
 article{
     background-color:white;
 }
@@ -90,4 +88,7 @@ article table{
  }
  #graph{
     background-image: url('../img/graph.jpg');
+ }
+ h3 {
+    padding: 10px;
  }
